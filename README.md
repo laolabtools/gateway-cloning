@@ -4,7 +4,7 @@ An offline, single-file workbench for Gateway® cloning: simulate BP and LR reac
 plasmid sequences, design attB primers from a published protocol, check fusion reading frames,
 and export GenBank files you can open in SnapGene.
 
-**[→ Open the app](([https://lao-labtools.org/gateway-bench/]))** · no install, no server, works offline
+**[→ Open the app](https://lao-labtools.org/gateway-bench/)** · no install, no server, works offline
 
 ![Gateway Bench, BP reaction tab](docs/screenshot.png)
 
@@ -133,7 +133,7 @@ primers all come from that protocol. The protocol document itself is not redistr
 Gateway® is a registered trademark of Thermo Fisher Scientific. This is an independent tool and is
 not affiliated with, endorsed by, or derived from any Thermo Fisher software.
 
-Built by [Linjiang Lao](https://github.com/linjianglao).
+Built by [L.Lao](https://github.com/lao-labtools).
 
 ## License
 

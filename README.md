@@ -4,7 +4,7 @@ An offline, single-file workbench for Gateway® cloning: simulate BP and LR reac
 plasmid sequences, design attB primers from a published protocol, check fusion reading frames,
 and export GenBank files you can open in SnapGene.
 
-**[→ Open the app]((https://lao-labtools.org/gateway-bench/))** · no install, no server, works offline
+**[→ Open the app](([https://lao-labtools.org/gateway-bench/]))** · no install, no server, works offline
 
 ![Gateway Bench, BP reaction tab](docs/screenshot.png)
 

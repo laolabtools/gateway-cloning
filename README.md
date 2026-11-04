@@ -137,16 +137,6 @@ Please use **[GitHub Issues](https://github.com/laolabtools/gateway-cloning/issu
 - your browser and operating system;
 - a screenshot, and if you can, the insert or GenBank file so the problem can be reproduced (remove anything confidential first).
 
-If you would rather not post publicly, email [contact@lao-labtools.org](mailto:contact@lao-labtools.org).
-
-## Citing
-
-If this tool contributed to published work, please cite it as:
-
-> Lao L. *Gateway Bench: simulation of Gateway BP/LR cloning and attB primer design in the browser*. 2026. https://github.com/laolabtools/gateway-cloning
-
-Please also cite the methods and resources it is built on (listed below), in particular the Gateway technology paper and, for primer design, Won Do Heo's protocol.
-
 ## Acknowledgements and references
 
 **Primer design protocol.** The attB primer design follows **"Primer Design for the Gateway attB primers", modified by Won Do Heo**. The following all come from that protocol:
@@ -185,7 +175,7 @@ The protocol document itself is not redistributed here.
 
 **Free for academic and other non-commercial use** under the [PolyForm Noncommercial License 1.0.0](LICENSE).
 
-In plain terms (the licence text is what counts): you may use, copy, modify and share this software for research, teaching, study and any other non-commercial purpose, including at universities, hospitals, non-profit research institutes and government laboratories. **Commercial use**, such as use by or for a company, in industry R&D, contract research or a paid service, is not covered and needs a separate licence. Contact [contact@lao-labtools.org](mailto:contact@lao-labtools.org).
+In plain terms (the licence text is what counts): you may use, copy, modify and share this software for research, teaching, study and any other non-commercial purpose, including at universities, hospitals, non-profit research institutes and government laboratories. **Commercial use**, such as use by or for a company, in industry R&D, contract research or a paid service, is not covered and needs a separate licence; to ask about one, open an issue in this repository.
 
 Earlier versions of this repository were released under the MIT licence. Copies obtained under those terms keep them; the PolyForm Noncommercial licence applies from November 2026 onward.
 
